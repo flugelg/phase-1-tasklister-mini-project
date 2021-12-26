@@ -21,3 +21,4 @@ document.addEventListener("DOMContentLoaded", () => {
     e.target.parentNode.remove();
   }
 });
+//Gary
